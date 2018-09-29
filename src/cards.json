@@ -1,0 +1,74 @@
+[
+    {
+      "id": 1,
+      "name": "Jacare",
+      "image": "https://images.pexels.com/photos/151354/pexels-photo-151354.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "count": 0
+    },
+    {
+      "id": 2,
+      "name": "Urso",
+      "image": "https://images.pexels.com/photos/213988/pexels-photo-213988.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "count": 0
+    },
+    {
+      "id": 3,
+      "name": "Aguia",
+      "image": "https://images.pexels.com/photos/133356/pexels-photo-133356.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "count": 0
+    },
+    {
+      "id": 4,
+      "name": "Tubarao",
+      "image": "https://images.pexels.com/photos/726478/pexels-photo-726478.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "count": 0
+    },
+    {
+      "id": 5,
+      "name": "Tigre",
+      "image": "https://images.pexels.com/photos/814898/pexels-photo-814898.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "count": 0
+    },
+    {
+      "id": 6,
+      "name": "Onca",
+      "image": "https://images.pexels.com/photos/39857/leopard-leopard-spots-animal-wild-39857.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "count": 0
+    },
+    {
+      "id": 7,
+      "name": "Cobra",
+      "image": "https://images.pexels.com/photos/38438/rattlesnake-toxic-snake-dangerous-38438.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "count": 0
+    },
+    {
+      "id": 8,
+      "name": "Lobo",
+      "image": "https://images.pexels.com/photos/416118/pexels-photo-416118.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "count": 0
+    },
+    {
+      "id": 9,
+      "name": "Hynea",
+      "image": "https://images.pexels.com/photos/674053/pexels-photo-674053.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "count": 0
+    },
+    {
+      "id": 10,
+      "name": "Leao",
+      "image": "https://images.pexels.com/photos/46522/lion-predator-big-cat-safari-46522.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "count": 0
+    },
+    {
+      "id": 11,
+      "name": "Aranha",
+      "image": "https://images.pexels.com/photos/40795/spider-macro-zebra-spider-insect-40795.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "count": 0
+    },
+    {
+      "id": 12,
+      "name": "Mosquito",
+      "image": "https://images.pexels.com/photos/86722/tiger-mosquito-mosquito-asian-tigermucke-sting-86722.jpeg?auto=compress&cs=tinysrgb&h=350",
+      "count": 0
+    }
+  ]
